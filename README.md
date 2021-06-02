@@ -1,2 +1,2 @@
 # Gradient
-sin(pi*x)*cos(pi*y)
+sin(pi.*x)*cos(pi.*y)
